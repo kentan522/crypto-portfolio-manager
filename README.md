@@ -1,2 +1,2 @@
 # crypto-portfolio-manager
-Simple spreadsheet portfolio manager with VBA code implementation
+Spreadsheet portfolio manager with VBA code implementation
