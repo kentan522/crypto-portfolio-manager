@@ -1,7 +1,7 @@
 # crypto-portfolio-manager
-Spreadsheet portfolio manager with live crypto prices with VBA code implementation
+Spreadsheet portfolio manager with live crypto prices with VBA code implementation for ease of management.
 
-Crypto coin prices are pulled from CoinGecko
+Crypto coin prices are pulled from CoinGecko.
 
 ## Guide to using the spreadsheet
 
@@ -54,7 +54,7 @@ your coins will be automatically updated.
 ### Closing 
 
 Feel free to reach out if there are any issues with the spreadsheet. Apologies if the code was done rather crudely, the crypto space is constantly rolling 24/7, 
-which leave me no time for efficient coding at the moment!
+which leaves me no time for efficient coding at the moment!
 
 
 
