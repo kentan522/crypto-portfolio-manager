@@ -54,7 +54,6 @@ your coins will be automatically updated.
 ### Closing 
 
 Feel free to reach out if there are any issues with the spreadsheet. Apologies if the code was done rather crudely, the crypto space is constantly rolling 24/7, 
-
 which leave me no time for efficient coding at the moment!
 
 
