@@ -33,6 +33,8 @@ your coins will be automatically updated.
 
 2. For buying new coins, please fill in the required yellow columns from scratch.
 
+3. Do note that to undo a buy or a sell, you have to click the corresponding "Undo Buy" or "Undo Sell" button.
+
 ### Adding Portfolios
 
 - Feel free to clone the sheet to add another portfolio (eg. hodl portfolio, trading portfolio etc.)
